@@ -27,7 +27,7 @@ This repository contains:
 **Quick start (Colab)**
 
 Open the notebook in Google Colab:
-https://colab.research.google.com/github/<your‑username>/<this‑repo>/blob/main/mini_workshop.ipynb](https://colab.research.google.com/drive/1-ppty23wb2e_2f_L6HPeGQRrUOUCyQJ3?usp=sharing
+https://colab.research.google.com/drive/1-ppty23wb2e_2f_L6HPeGQRrUOUCyQJ3?usp=sharing
 
 Download this workbook and drop it into your Colab account.
 Download the data files and put them in your Google Drive folders (recommend naming the folder as "NARIT_Youth_Research_2025/data/").
